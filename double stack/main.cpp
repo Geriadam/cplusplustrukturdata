@@ -27,7 +27,7 @@ void menu()
 void view1()
 {
     for(i=0;i<=top1;i++){
-        cout<<i<<" ";
+        cout<<s[i]<<" ";
     }
 }
 
